@@ -27,7 +27,7 @@
 [![contact](https://img.shields.io/static/v1?label=&message=contact:&color=222&style=for-the-badge)](#)
 [![✉](https://img.shields.io/static/v1?label=📧&message=hi@ilumeo.com&color=333&style=for-the-badge)](mailto:hi@ilumeo.com)
 [![✉](https://img.shields.io/static/v1?label=📬&message=Via+GitHub&color=333&style=for-the-badge)](https://github.com/foresterre/foresterre/issues)
-
+[![✉](https://img.shields.io/static/v1?label=📦&message=crates.io&color=333&style=for-the-badge)](https://crates.io/users/foresterre?sort=recent-updates)
 
 <!--
 **foresterre/foresterre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
