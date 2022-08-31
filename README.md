@@ -21,6 +21,10 @@
 | 🐑  | [parameterized](https://github.com/foresterre/parameterized) | JUnit style parameterized testing for Rust                                                                                       | [![repo activity](https://img.shields.io/github/stars/foresterre/parameterized?style=flat-square")](https://github.com/foresterre/parameterized) | [![repo activity](https://img.shields.io/github/last-commit/foresterre/parameterized?style=flat-square")](https://github.com/foresterre/parameterized) |                                                                                                                                                  |
 | 🛶  | [yare](https://github.com/foresterre/yare)                   | Lean parametrized testing library for Rust                                                                                       | [![repo activity](https://img.shields.io/github/stars/foresterre/yare?style=flat-square")](https://github.com/foresterre/yare)                   | [![repo activity](https://img.shields.io/github/last-commit/foresterre/yare?style=flat-square")](https://github.com/foresterre/yare)                   |
 
+And more:
+* [rust-toolchain-file](https://github.com/foresterre/rust-toolchain-file): Parser for rust-toolchain(.toml) files.
+* [version-number](https://github.com/foresterre/version-number): Parsing of two- and three component version numbers, like the `rust-version` field in the Cargo Manifest.
+* ... [all my public libraries and projects](https://github.com/foresterre?tab=repositories&q=&type=source&language=&sort=)
 
 ---
 
