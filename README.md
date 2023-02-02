@@ -1,4 +1,4 @@
-### Hello! I'm Martijn <sup>🐦 I'm a Software Engineer, open source developer and Rust enthusiast from The Netherlands</sup>
+### Hello! I'm Martijn <sup>【🐦 I'm a Software Engineer, open source developer and Rust enthusiast from The Netherlands】</sup>
 
 [![languages](https://img.shields.io/static/v1?label=&message=languages:&color=222&style=for-the-badge)](#)
 [![Rust](https://img.shields.io/static/v1?logo=rust&label=&message=rust&color=333&style=for-the-badge)](https://www.rust-lang.org/)
@@ -23,7 +23,7 @@
 
 And more:
 * [rust-toolchain-file](https://github.com/foresterre/rust-toolchain-file): Parser for rust-toolchain(.toml) files.
-* [version-number](https://github.com/foresterre/version-number): Parsing of two- and three component version numbers, like the `rust-version` field in the Cargo Manifest.
+* [version-number](https://github.com/foresterre/version-number): _Semver(like)-lite_, parsing two- and three component version numbers, such as the `rust-version` field in the Cargo Manifest.
 * ... [all my public libraries and projects](https://github.com/foresterre?tab=repositories&q=&type=source&language=&sort=)
 
 ---
