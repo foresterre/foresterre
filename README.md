@@ -8,6 +8,8 @@
 
 ---
 
+**Blog: [foresterre.github.io](https://foresterre.github.io/posts/)**
+
 **A selection of my open source projects:**
 
 |     | 📦 Project                                                   | 👐 Description                                                                                                                   | ⭐ Stars                                                                                                                                          | ✨ Activity                                                                                                                                             |
