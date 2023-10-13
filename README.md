@@ -1,4 +1,5 @@
-### Hello! I'm Martijn <sup>【🐦 I'm a Software Engineer, open source developer and Rust enthusiast from The Netherlands】</sup>
+### Hello! I'm Martijn
+<sup>【🐦 I'm a Software Engineer from The Netherlands. I love open source, software design and language engineering!】</sup>
 
 [![languages](https://img.shields.io/static/v1?label=&message=languages:&color=222&style=for-the-badge)](#)
 [![Rust](https://img.shields.io/static/v1?logo=rust&label=&message=rust&color=333&style=for-the-badge)](https://www.rust-lang.org/)
